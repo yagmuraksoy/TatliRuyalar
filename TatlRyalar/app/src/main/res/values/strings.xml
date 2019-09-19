@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tatlı Rüyalar</string>
+    <string name="appName">Tatlı Rüyalar</string>
+    <string name="ackl">Çocuklar İçin Masal ve Sakinleştirici Sesler</string>
+    <string name="masal">VİDEOLAR</string>
+    <string name="muzik">SESLİ</string>
+    <string name="gatto">IL GATTO CON GLI STIVALI</string>
+    <string name="shark">BABY SHARK</string>
+    <string name="kedi">ÇİZMELİ KEDİ</string>
+    <string name="cirkin">ÇİRKİN ÖRDEK YAVRUSU</string>
+    <string name="kirmizi">KIRMIZI BALIK</string>
+    <string name="cal">ÇAL</string>
+    <string name="back"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+</resources>
