@@ -1,4 +1,6 @@
 # TatliRuyalar
- Android Studio ile hazırlanmış ve Youtube video player içeren masal dinleme ve izleme programı
+ Android Studio ve Youtube API ile hazırlanmış ve Youtube video player içeren masal dinleme ve izleme programı
+ 
 //////////
-An Android Studio project in Java with Youtube API and Youtube Player
+
+An Android Studio project in Java with Youtube API and Youtube Video Player.
